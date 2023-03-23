@@ -1,0 +1,4 @@
+name: earnmoney
+version: '${project.version}'
+main: eu.hylix.earnmoney.Earnmoney
+api-version: 1.19
